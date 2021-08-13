@@ -5,10 +5,10 @@
 This is a phone-based Canvas Power App which provides functionality to capture a health atastation and digital badge for physical security.  There is a companior admin app to configure office capacity and COVID phase information.  This application also has workflows to alert office leads about capacity thresholds and Health & Safety about failed check-ins.  Reporting is also provided for contact tracing.
 
 
-![Home Screen](assets/OfficeCheckIn_01_HomeScreen.png)
-![Guest Identification Screen](assets/OfficeCheckIn_02_GuestIdentification.png)
-![Health Questions Screen](assets/OfficeCheckIn_03_HealthScreen.png)
-![Confirmation Screen](assets/OfficeCheckIn_04_ConfirmationScreen.png)
+![Home Screen](OfficeCheckIn_01_HomeScreen.png)
+![Guest Identification Screen](OfficeCheckIn_02_GuestIdentification.png)
+![Health Questions Screen](OfficeCheckIn_03_HealthScreen.png)
+![Confirmation Screen](OfficeCheckIn_04_ConfirmationScreen.png)
 
 ## Applies to
 
