@@ -48,7 +48,7 @@ This template uses SharePoint as it's main data source. To avoid premium licensi
 
 ## For more information
 
-- [How to engage Brown and Caldwell for a similar app] (https://www.brownandcaldwell.com)
+- [How to engage Brown and Caldwell for a similar app](https://www.brownandcaldwell.com)
 - [Overview of creating apps in Power Apps](https://docs.microsoft.com/powerapps/maker/)
 - [Power Apps canvas apps documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/)
 
